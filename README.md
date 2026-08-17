@@ -85,8 +85,8 @@ I'm continuously building projects to strengthen my practical skills in:
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/niranjana-r-/
-- **GitHub:**https://github.com/Niranjana005
+- **LinkedIn:** [Niranjana R](https://www.linkedin.com/in/niranjana-r-/)
+- **GitHub:** [Niranjana005](https://github.com/Niranjana005)
 
 ---
 
